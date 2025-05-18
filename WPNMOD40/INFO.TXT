@@ -1,0 +1,22 @@
+ 
+ This mod allows to install [1;31m24[0;37m new weapons for Blood. The weapons were created 
+ by using QAV animations and patching BLOOD.EXE, so this means they have 
+ changed characteristics and/or balance. The current version of the mod not 
+ only adds new and cool weapons, but also adds new great features like:
+ 
+ [1;31mþ Full multiplayer game support with Meltdown client.
+ 
+ [1;37mþ Options screen that allow configure WM in many many ways.
+ 
+ [1;35mþ Renaming vanilla weapons and ammo for weapons you installed.
+ 
+ [1;32mþ DSCA system which allows you to know which characteristics of certain
+   weapon were changed (Press [1;33m2[1;32m to learn more).
+ 
+ [1;34mþ All-new, much faster, way to install selected weapons.
+ 
+ [1;36mþ Preset manager which allows to load and save selected weapons.
+ 
+ [1;33mWeapons Mod is also compatible with every addon (even with custom content)
+ and have built-in BMOUSE patch. See more information in WMREADME.TXT file.
+ 

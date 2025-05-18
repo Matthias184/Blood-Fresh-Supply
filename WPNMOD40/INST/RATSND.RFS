@@ -1,0 +1,24 @@
+resource "WPNMOD40\DATA\RAW\transf2.raw";
+data "transf.SFX" as 32610:	87, 0x22500, 0x0, 1, -1, "transf2";
+
+data "srat1i1.SFX" as 32609:	90, 0x10000, 0x0, 1, -1, "shatston";
+data "srat1h1.SFX" as 32608:	76, 0x21099, 0x0, 1, -1, "shatston";
+data "srat1d2.SFX" as 32607:		150, 0x10000, 0x0, 1, -1, "splntwod";
+data "srat1d1.SFX" as 32606:	100, 0x11000, 0x0, 1, -1, "shatston";
+
+resource "WPNMOD40\DATA\RAW\r_tele4.raw";
+data "rtel4_1.SFX" as 32605:	219, 0x21050, 0x0, 1, -1, "r_tele4";
+data "rtel5_1.SFX" as 32604:	231, 0x22060, 0x0, 1, -1, "r_tele4";
+
+resource "WPNMOD40\DATA\RAW\r_tele3.raw";
+data "rtel2_1.SFX" as 32603:	200, 0x24050, 0x0, 1, -1, "r_tele3";
+data "rtel3_1.SFX" as 32602:	225, 0x22090, 0x0, 1, -1, "r_tele3";
+data "rtel1_1.SFX" as 32601:	95, 0x10000, 0x0, 1, -1, "ratpain";
+data "rtel5_1.SFX" as 32600:	231, 0x23060, 0x0, 1, -1, "r_tele4";
+
+resource "WPNMOD40\DATA\RAW\r_tele1.raw";
+data "rtel6_1.SFX" as 32599:	210,0x22070, 0x0, 1, -1, "r_tele1";
+data "rtel7_1.SFX" as 32598:	115, 0x10000, 0x0, 1, -1, "ratpain";
+
+resource "WPNMOD40\DATA\RAW\RATZAP.RAW";
+data "RATZAP.SFX" as 32597:	200, 0x22050, 0x0, 1, -1, "RATZAP";

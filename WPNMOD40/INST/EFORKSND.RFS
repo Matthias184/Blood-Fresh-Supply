@@ -1,0 +1,11 @@
+resource "WPNMOD40\DATA\RAW\eforkup.RAW";
+data "eforkup.SFX" as 32680:	200, 0x20000, 0x0, 5, -1, "eforkup";
+
+resource "WPNMOD40\DATA\RAW\eforkf.RAW";
+data "eforkf1.SFX" as 32679:	255, 0x20000, 0x0, 5, -1, "eforkf";
+data "eforkf2.SFX" as 32678:	225, 0x24050, 0x0, 5, -1, "eforkf";
+data "eforkf3.SFX" as 32677:	240, 0x26050, 0x0, 5, -1, "eforkf";
+data "eforkf4.SFX" as 32676:	210, 0x22050, 0x0, 5, -1, "eforkf";
+
+resource "WPNMOD40\DATA\RAW\eforkdow.RAW";
+data "eforkdow.SFX" as 32675:	150, 0x20000, 0x0, 5, -1, "eforkdow";

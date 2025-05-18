@@ -1,0 +1,30 @@
+:clear_vars
+SET envtest=
+SET info=
+SET bmouse=
+SET params=
+SET repair=
+SET BLOOD_RFF=
+SET SOUNDS_RFF=
+SET BLOOD_EXE=
+SET TILES=
+SET rff_param=
+SET snd_param=
+SET art_param=
+SET skip_play_screen=
+SET skip_main_screen=
+SET bat_file=
+SET randw=
+SET stimes=
+SET cw=
+SET install=
+SET OSCR=
+SET COMMIT=
+SET PTH=
+SET status=
+SET dosbox=
+SET randwc=
+SET noblink=
+SET bhm=
+SET WMART=
+:clear_end

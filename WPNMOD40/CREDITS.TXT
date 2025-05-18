@@ -1,0 +1,24 @@
+ Weapons Mod #4 has been created by NoOne and Dzierzan and it wouldn't have 
+ happened without help of these people:
+
+  [36mART / SPRITE EDITS BY        [35mTOOLS / PATCHES BY         [1;33mWEAPONS CREATED BY[0m
+ [36mÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿   [35mÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿   [1;33mÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿[0m
+ [36m³ Monolith Productions ³   [35m³ Monolith Productions ³   [1;33m³ Dzierzan             ³[0m
+ [36m³ Lobotomy Software    ³   [35m³ B M E  /  I L M H B  ³   [1;33m³ NoOne                ³[0m
+ [36m³ Torridgristle        ³   [35m³ FreeDOS Project      ³   [1;33mÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ[0m
+ [36m³ Scuba Steves         ³   [35m³ Douglas Boling       ³
+ [36m³ HexenMapper          ³   [35m³ RAD Game Tools       ³       [32mBUILDS TESTED BY[0m
+ [36m³ Michael Lee          ³   [35m³ OzWoz Software       ³   [32mÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿[0m
+ [36m³ Captain J            ³   [35m³ Magical C0DEr        ³   [32m³ BERNASIE_KING        ³[0m
+ [36m³ Mor'ladim            ³   [35m³ -=CHE@TER=-          ³   [32m³ NightGoat            ³[0m
+ [36m³ 3D Realms            ³   [35m³ M210(R)              ³   [32m³ Nyss0nen             ³[0m
+ [36m³ xenoxols             ³   [35m³ NoOne                ³   [32m³ Sub-Zero             ³[0m
+ [36m³ Dude27th             ³   [35mÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ   [32m³ mAsTa                ³[0m
+ [36m³ Dzierzan             ³                              [32mÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ[0m
+ [36m³ Vostyok              ³       [31mSPECIAL / THANKS[0m       
+ [36m³ GAA1992              ³   [31mÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿[0m         [34mINTERFACE BY
+ [36m³ Gothic               ³   [31m³ Hendricks266         ³[0m   [34mÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿[0m
+ [36m³ fgsfds               ³   [31m³ sirlemonhead         ³[0m   [34m³ NoOne                ³[0m
+ [36m³ Mike12               ³   [31mÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ[0m   [34mÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ[0m
+ [36m³ Blox                 ³
+ [36mÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ

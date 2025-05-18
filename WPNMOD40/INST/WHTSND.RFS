@@ -1,0 +1,20 @@
+resource "WPNMOD40\DATA\RAW\HEART1.RAW";
+data "HEART1.SFX" as 32620:	100, 0x22050, 0x0, 5, -1, "HEART1";
+
+resource "WPNMOD40\DATA\RAW\HEART2.RAW";
+data "HEART2.SFX" as 32619: 100, 0x22050, 0x0, 5, -1, "HEART2";
+
+resource "WPNMOD40\DATA\RAW\HTSPEL10.RAW";
+data "HTSPEL10.SFX" as 461: 200, 0x22050, 0x0, 5, -1, "HTSPEL10";
+
+resource "WPNMOD40\DATA\RAW\HTBEAT.RAW";
+data "HTBEAT.SFX" as 32618: 150, 0x22050, 0x0, 5, -1, "HTBEAT";
+
+resource "WPNMOD40\DATA\RAW\STAB.RAW";
+data "STAB.SFX" as 32617: 80, 0x10000, 0x0, 1, -1, "STAB";
+
+data "NONE.SFX" as 460: 0, 0x0, 0x0, 5, -1, "NONE";
+data "NONE.SFX" as 463: 0, 0x0, 0x0, 5, -1, "NONE";
+
+resource "WPNMOD40\DATA\RAW\HTSPEL.RAW";
+data "HTSPEL.SFX" as 32616: 255, 0x11025, 0x0, 5, -1, "HTSPEL";

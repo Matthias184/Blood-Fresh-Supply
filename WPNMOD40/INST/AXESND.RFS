@@ -1,0 +1,10 @@
+resource "WPNMOD40\DATA\RAW\AXE1.RAW";
+data "AXE1.SFX" as 32670:	180, 0x22050, 0x0, 5, -1, "AXE1";
+resource "WPNMOD40\DATA\RAW\AXE2.RAW";
+data "AXE2.SFX" as 32669:	220, 0x22050, 0x0, 5, -1, "AXE2";
+data "AXE4.SFX" as 32668:	200, 0x26050, 0x0, 5, -1, "AXE2";
+resource "WPNMOD40\DATA\RAW\AXE3.RAW";
+data "AXE3.SFX" as 32667:	210, 0x22050, 0x0, 5, -1, "AXE3";
+
+resource "WPNMOD40\DATA\RAW\NFRKATK.RAW";
+data "NFRUP.SFX" as 32666:	100, 0x11025, 0x0, 1, -1, "NFRKATK";

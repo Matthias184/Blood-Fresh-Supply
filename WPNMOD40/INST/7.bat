@@ -1,0 +1,4 @@
+TYPE %wmpath%\INST\COLT.RFS>>%wmpath%\TEMP\RESRFF.RFS
+TYPE %wmpath%\INST\COLSND.RFS>>%wmpath%\TEMP\SNDRFF.RFS
+TYPE %wmpath%\PTCH\COMI12.CRK>>%wmpath%\TEMP\CRKEXE.CRK
+ECHO U>>%wmpath%\TEMP\LTRS.FLG

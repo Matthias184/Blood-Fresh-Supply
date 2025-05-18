@@ -1,0 +1,4 @@
+resource "WPNMOD40\DATA\RAW\FLAM1.RAW";
+data "FLAM1.SFX" as 32530:	200, 0x20000, 0x0, 5, -1, "FLAM1";
+resource "WPNMOD40\DATA\RAW\FLAM2.RAW";
+data "FLAM2.SFX" as 32529:	200, 0x20000, 0x0, 5, -1, "FLAM2";

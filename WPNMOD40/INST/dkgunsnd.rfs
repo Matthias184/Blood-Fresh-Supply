@@ -1,0 +1,6 @@
+resource "WPNMOD40\DATA\RAW\darkf1.raw";
+data "darkf1.SFX" as 480:	200, 0x20050, 0x0, 5, -1, "darkf1";
+resource "WPNMOD40\DATA\RAW\darkf2.raw";
+data "darkf2.SFX" as 32540:	200, 0x11020, 0x0, 1, -1, "darkf2";
+data "SKULAIR4.SFX" as 493:	20, 0x10000, 0x0, 1, 0, "skulair4";
+data "LLALTHT.SFX" as 522:	15, 0x10000, 0x1000, 1, -1, "llaltht";

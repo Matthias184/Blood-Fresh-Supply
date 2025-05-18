@@ -1,0 +1,8 @@
+resource "WPNMOD40\DATA\RAW\REVFIR3.RAW";
+data "REVFIR3.SFX" as 421:	160, 0x22050, 0x0, 1, -1, "REVFIR3";
+resource "WPNMOD40\DATA\RAW\REVLOAD.RAW";
+data "REVLOAD.SFX" as 32640: 100, 0x22050, 0x0, 1, -1, "revload";
+resource "WPNMOD40\DATA\RAW\REVCOCK.RAW";
+data "REVCOCK.SFX" as 32639: 100, 0x22050, 0x0, 1, -1, "revcock";
+resource "WPNMOD40\DATA\RAW\REVEMPTY.RAW";
+data "REVEMPTY.SFX" as 11033: 200, 0x22050, 0x0, 1, -1, "revempty";

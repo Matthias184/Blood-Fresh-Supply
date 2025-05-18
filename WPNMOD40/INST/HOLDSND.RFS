@@ -1,0 +1,5 @@
+resource "WPNMOD40\DATA\RAW\HOLYFIR.RAW";
+data "HOLYFIR.SFX" as 412:	                  200, 0x22050, 0x0, 1, -1, "HOLYFIR";
+resource "WPNMOD40\DATA\RAW\HOD_MOVE.RAW";
+data "HOD_MOVE.SFX" as 32560: 		200, 0x11025, 0x0, 1, -1, "hod_move";
+data "SHOTCOCK.SFX" as 410:			0, 0x20000, 0x0, 1, -1, "saw_cock";

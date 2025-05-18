@@ -1,0 +1,22 @@
+ 
+ [1;37mDSCA[0;37m system stands for [1;31mDamage[0;37m, [1;34mSpeed[0;37m, ammo [1;36mConsumption[0;37m and [1;35mAnimation[0;37m. 
+ These stats are displayed in the right panel as coloured squares and 
+ they let you know what changes were apllied for each weapon in the select 
+ screen, compared to vanilla Blood. 
+ 
+ EXAMPLE: ³[0;31mþ[0;34mþ[1;36mþ[0;35mþ[0;37m³
+ 
+ [1;37mþ - No changes compared to vanilla.
+
+ [1;31mþ - Damage increased                [1;34mþ - Speed increased   
+ [0;31mþ - Damage decreased                [0;34mþ - Speed decreased 
+
+ [1;36mþ - Highter ammo consumption        [1;35mþ - Fully new animation
+ [0;36mþ - Lower ammo consumption          [0;35mþ - Using old animation (can be edited)
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,76 @@
+// Transform to moving rat effect
+resource "WPNMOD40\DATA\SEQ\transf.seq" as 71;
+
+// Fire Pod's blood Cryptic Passage and addons with custom textures compatibility.
+resource "WPNMOD40\DATA\SEQ\fblood.seq" as 72;
+
+resource "WPNMOD40\DATA\QAV\RATUP.QAV" as 100;
+resource "WPNMOD40\DATA\QAV\RATIDLE1.QAV" as 101;
+resource "WPNMOD40\DATA\QAV\RATIDLE2.QAV" as 102;
+resource "WPNMOD40\DATA\QAV\RATFIRE1.QAV" as 103;
+resource "WPNMOD40\DATA\QAV\RATFIRE4.QAV" as 104;
+resource "WPNMOD40\DATA\QAV\RATFIRE3.QAV" as 105;
+resource "WPNMOD40\DATA\QAV\RATFIRE4.QAV" as 106;
+resource "WPNMOD40\DATA\QAV\RATFIRE5.QAV" as 107;
+resource "WPNMOD40\DATA\QAV\RATSPEL1.QAV" as 110;
+resource "WPNMOD40\DATA\QAV\RATDOWN.QAV" as 109;
+resource "WPNMOD40\DATA\KVX\RATTAIL.KVX" as 35;
+resource "WPNMOD40\DATA\KVX\RATMAST.KVX" as 55;
+
+// Making unused cultist (243) as stone rat
+resource "WPNMOD40\DATA\SEQ\srat1i1.seq" as 1000;
+resource "WPNMOD40\DATA\SEQ\srat1d1.seq" as 1001;
+resource "WPNMOD40\DATA\SEQ\srat1d2.seq" as 1002;
+resource "WPNMOD40\DATA\SEQ\srat1d1.seq" as 1003;
+resource "WPNMOD40\DATA\SEQ\srat1i1.seq" as 1004;
+resource "WPNMOD40\DATA\SEQ\srat1r1.seq" as 1005;
+resource "WPNMOD40\DATA\SEQ\srat1i1.seq" as 1006;
+resource "WPNMOD40\DATA\SEQ\srat1i1.seq" as 1007;
+resource "WPNMOD40\DATA\SEQ\srat1i1.seq" as 1008;
+resource "WPNMOD40\DATA\SEQ\srat1i1.seq" as 1009;
+resource "WPNMOD40\DATA\SEQ\srat1i1.seq" as 1010;
+resource "WPNMOD40\DATA\SEQ\srat1i1.seq" as 1011;
+resource "WPNMOD40\DATA\SEQ\srat1i1.seq" as 1012;
+resource "WPNMOD40\DATA\SEQ\srat1i1.seq" as 1013;
+resource "WPNMOD40\DATA\SEQ\srat1i1.seq" as 1014;
+resource "WPNMOD40\DATA\SEQ\srat1d1.seq" as 1015;
+resource "WPNMOD40\DATA\SEQ\srat1d1.seq" as 1016;
+resource "WPNMOD40\DATA\SEQ\srat1i1.seq" as 1017;
+
+// Adding auto-aim to some enemies
+
+// Pods and tentacles are immune?
+// resource "WPNMOD40\DATA\SEQ\RAIM\POD1A1.SEQ" as 8200;
+// resource "WPNMOD40\DATA\SEQ\RAIM\POD1CLOS.SEQ" as 8199;
+// resource "WPNMOD40\DATA\SEQ\RAIM\POD1OPEN.SEQ" as 8198;
+// resource "WPNMOD40\DATA\SEQ\RAIM\POD2A1.SEQ" as 8712;
+// resource "WPNMOD40\DATA\SEQ\RAIM\POD2CLOS.SEQ" as 8709;
+// resource "WPNMOD40\DATA\SEQ\RAIM\POD2I.SEQ" as 8704;
+// resource "WPNMOD40\DATA\SEQ\RAIM\POD2OPEN.SEQ" as 8710;
+// resource "WPNMOD40\DATA\SEQ\RAIM\TENT1A1.SEQ" as 8454;
+// resource "WPNMOD40\DATA\SEQ\RAIM\TENT2A1.SEQ" as 8966;
+
+// Phantasm on attack
+resource "WPNMOD40\DATA\SEQ\RAIM\GOST1A1.SEQ" as 5382;
+
+// Spiders
+resource "WPNMOD40\DATA\SEQ\RAIM\SPID1A2.SEQ" as 6150;
+resource "WPNMOD40\DATA\SEQ\RAIM\SPID1I1.SEQ" as 6144;
+resource "WPNMOD40\DATA\SEQ\RAIM\SPID1M1.SEQ" as 6151;
+resource "WPNMOD40\DATA\SEQ\RAIM\SPID1M2.SEQ" as 6152;
+
+resource "WPNMOD40\DATA\SEQ\RAIM\SPID2A2.SEQ" as 6406;
+resource "WPNMOD40\DATA\SEQ\RAIM\SPID2I1.SEQ" as 6400;
+resource "WPNMOD40\DATA\SEQ\RAIM\SPID2M1.SEQ" as 6407;
+resource "WPNMOD40\DATA\SEQ\RAIM\SPID2M2.SEQ" as 6408;
+
+resource "WPNMOD40\DATA\SEQ\RAIM\SPID3A2.SEQ" as 6662;
+resource "WPNMOD40\DATA\SEQ\RAIM\SPID3I1.SEQ" as 6656;
+resource "WPNMOD40\DATA\SEQ\RAIM\SPID3M1.SEQ" as 6663;
+resource "WPNMOD40\DATA\SEQ\RAIM\SPID3M2.SEQ" as 6664;
+
+// Mother spider
+resource "WPNMOD40\DATA\SEQ\RAIM\SPID3A2.SEQ" as 6918;
+resource "WPNMOD40\DATA\SEQ\RAIM\SPID3I1.SEQ" as 6912;
+resource "WPNMOD40\DATA\SEQ\RAIM\SPID3M1.SEQ" as 6919;
+resource "WPNMOD40\DATA\SEQ\RAIM\SPID3M2.SEQ" as 6920;

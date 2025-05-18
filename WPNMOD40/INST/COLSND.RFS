@@ -1,0 +1,8 @@
+resource "WPNMOD40\DATA\RAW\REVOLFIR.RAW";
+data "REVOLFIR.SFX" as 421:	160, 0x22050, 0x0, 5, -1, "REVOLFIR";
+resource "WPNMOD40\DATA\RAW\RevoCock.RAW";
+data "RevoCock.SFX" as 11032: 200, 0x22050, 0x0, 5, -1, "RevoCock";
+resource "WPNMOD40\DATA\RAW\GUNIN.RAW";
+data "GUNIN.SFX" as 32630: 200, 0x22050, 0x0, 5, -1, "GUNIN";
+resource "WPNMOD40\DATA\RAW\GUNOUT.RAW";
+data "GUNOUT.SFX" as 32629: 200, 0x22050, 0x0, 5, -1, "GUNOUT";

@@ -1,0 +1,5 @@
+resource "WPNMOD40\DATA\RAW\LEECH.RAW";
+data "LEECH.SFX" as 494: 200, 0x10000, 0x0, 5, -1, "LEECH";
+
+resource "WPNMOD40\DATA\RAW\LEECH2.RAW";
+data "LEECH2.SFX" as 32510: 200, 0x22050, 0x0, 5, -1, "LEECH2";

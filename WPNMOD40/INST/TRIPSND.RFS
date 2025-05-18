@@ -1,0 +1,9 @@
+data "none.SFX" as 410:	0, 0x22050, 0x0, 5, -1, "none";
+resource "WPNMOD40\DATA\RAW\RIOT11.RAW";
+data "RIOT11.SFX" as 411:	300, 0x22050, 0x0, 1, -1, "RIOT11";
+resource "WPNMOD40\DATA\RAW\RIOTF22.RAW";
+data "RIOTF22.SFX" as 412:	300, 0x22050, 0x0, 5, -1, "riotf22";
+resource "WPNMOD40\DATA\RAW\shotpump.RAW";
+data "shotpump.SFX" as 32580:	160, 0x22050, 0x0, 5, -1, "shotpump";
+resource "WPNMOD40\DATA\RAW\ROTATE.RAW";
+data "ROTATE.SFX" as 32579:	190, 0x22050, 0x0, 5, -1, "ROTATE";

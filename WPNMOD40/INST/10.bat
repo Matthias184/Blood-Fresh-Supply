@@ -1,0 +1,4 @@
+TYPE %wmpath%\INST\PSHOT.RFS>>%wmpath%\TEMP\RESRFF.RFS
+TYPE %wmpath%\INST\PSHOTSND.RFS>>%wmpath%\TEMP\SNDRFF.RFS
+TYPE %wmpath%\PTCH\PSHT.CRK>>%wmpath%\TEMP\CRKEXE.CRK
+ECHO P>>%wmpath%\TEMP\LTRS.FLG

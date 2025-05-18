@@ -1,0 +1,30 @@
+{
+    "buildId": "52513683478143776",
+    "clientId": "52188614480902181",
+    "gameId": "1374469660",
+    "language": "English",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Blood: Fresh Supply",
+    "osBitness": [
+        "64"
+    ],
+    "playTasks": [
+        {
+            "category": "game",
+            "isPrimary": true,
+            "languages": [
+                "en-US"
+            ],
+            "name": "Blood: Fresh Supply",
+            "osBitness": [
+                "64"
+            ],
+            "path": "anuket_x64.exe",
+            "type": "FileTask"
+        }
+    ],
+    "rootGameId": "1374469660",
+    "version": 1
+}

@@ -1,0 +1,17 @@
+resource "WPNMOD40\DATA\QAV\bookup.qav" as 41, PRELOCK;
+resource "WPNMOD40\DATA\QAV\bookid.qav" as 42, PRELOCK;
+resource "WPNMOD40\DATA\QAV\bookid.qav" as 46, PRELOCK;
+resource "WPNMOD40\DATA\QAV\booka12.qav" as 43, PRELOCK;
+resource "WPNMOD40\DATA\QAV\booka12.qav" as 48, PRELOCK;
+resource "WPNMOD40\DATA\QAV\booka23.qav" as 47, PRELOCK;
+// |
+// +--Using FLAR2F ID to have different alt.fire animation.
+resource "WPNMOD40\DATA\QAV\booka33.qav" as 45, PRELOCK; 
+// |
+// +--Using FLAR2UP ID to have different alt.fire when not enough ammo.
+//    Akimbo raise ID is now non-akimbo raise ID.
+
+resource "WPNMOD40\DATA\QAV\bookdw.qav" as 44, PRELOCK;
+resource "WPNMOD40\DATA\QAV\bookdw.qav" as 49, PRELOCK;
+resource "WPNMOD40\DATA\KVX\BOOK.KVX" as 34;
+resource "WPNMOD40\DATA\KVX\MANA.KVX" as 17;

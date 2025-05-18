@@ -1,0 +1,5 @@
+resource "WPNMOD40\DATA\RAW\pshot.RAW";
+data "pshot.SFX" as 412:	200, 0x20000, 0x0, 5, -1, "pshot";
+resource "WPNMOD40\DATA\RAW\pshotdep.RAW";
+data "pshotdep.SFX" as 32590:	200, 0x22050, 0x0, 5, -1, "pshotdep";
+data "none.SFX" as 410:	0, 0x22050, 0x0, 5, -1, "none";

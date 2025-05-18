@@ -1,0 +1,8 @@
+data "NONE.SFX" as 410:	0, 0x22050, 0x0, 1, -1, "NONE";
+resource "WPNMOD40\DATA\RAW\RIOTLOAD.RAW";
+data "SHOTCOCK.SFX" as 32550:	200, 0x22050, 0x0, 1, -1, "riotload";
+resource "WPNMOD40\DATA\RAW\BOLT1R.RAW";
+data "BOLT1R.SFX" as 32549:	150, 0x11050, 0x0, 1, -1, "BOLT1R";
+resource "WPNMOD40\DATA\RAW\RIOTFIR1.RAW";
+data "RIOTFIR1.SFX" as 412:	200, 0x20000, 0x0, 1, -1, "riotfir1";
+data "RIOTFIR1.SFX" as 411:	200, 0x22050, 0x0, 1, -1, "riotfir1";

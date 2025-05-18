@@ -1,0 +1,7 @@
+resource "WPNMOD40\DATA\RAW\SHOTGUN.RAW";
+data "SHOTGUN.SFX" as 20001:	160, 0x20000, 0x0, 5, -1, "SHOTGUN";
+resource "WPNMOD40\DATA\RAW\SAW_FIR1.RAW";
+data "SHOTFIRE.SFX" as 411:	100, 0x10000, 0x1000, 1, -1, "saw_fir1";
+resource "WPNMOD40\DATA\RAW\SAW_FIR2.RAW";
+data "SHOTFIR2.SFX" as 412:	110, 0x10000, 0x0, 1, -1, "saw_fir2";
+data "NONE.SFX" as 410: 0, 0x0, 0x0, 5, -1, "NONE";
